@@ -1,0 +1,138 @@
+Inicio
+
+1 2 3 
+4 5 6 
+7 8 0 
+
+Movimiento: 2,1 No. 1
+Puntaje: 2
+1 2 3 
+4 5 6 
+7 0 8 
+
+Movimiento: 1,1 No. 2
+Puntaje: 3
+1 2 3 
+4 0 6 
+7 5 8 
+
+Movimiento: 1,0 No. 3
+Puntaje: 4
+1 2 3 
+0 4 6 
+7 5 8 
+
+Movimiento: 1,1 No. 4
+Puntaje: 3
+1 2 3 
+4 0 6 
+7 5 8 
+
+Movimiento: 2,1 No. 5
+Puntaje: 2
+1 2 3 
+4 5 6 
+7 0 8 
+
+Movimiento: 1,1 No. 6
+Puntaje: 3
+1 2 3 
+4 0 6 
+7 5 8 
+
+Movimiento: 1,2 No. 7
+Puntaje: 4
+1 2 3 
+4 6 0 
+7 5 8 
+
+Movimiento: 0,2 No. 8
+Puntaje: 5
+1 2 0 
+4 6 3 
+7 5 8 
+
+Movimiento: 1,2 No. 9
+Puntaje: 4
+1 2 3 
+4 6 0 
+7 5 8 
+
+Movimiento: 2,2 No. 10
+Puntaje: 3
+1 2 3 
+4 6 8 
+7 5 0 
+
+Movimiento: 1,2 No. 11
+Puntaje: 4
+1 2 3 
+4 6 0 
+7 5 8 
+
+Movimiento: 0,2 No. 12
+Puntaje: 5
+1 2 0 
+4 6 3 
+7 5 8 
+
+Movimiento: 1,2 No. 13
+Puntaje: 4
+1 2 3 
+4 6 0 
+7 5 8 
+
+Movimiento: 1,1 No. 14
+Puntaje: 3
+1 2 3 
+4 0 6 
+7 5 8 
+
+Movimiento: 1,2 No. 15
+Puntaje: 4
+1 2 3 
+4 6 0 
+7 5 8 
+
+Movimiento: 0,2 No. 16
+Puntaje: 5
+1 2 0 
+4 6 3 
+7 5 8 
+
+Movimiento: 0,1 No. 17
+Puntaje: 6
+1 0 2 
+4 6 3 
+7 5 8 
+
+Movimiento: 0,2 No. 18
+Puntaje: 5
+1 2 0 
+4 6 3 
+7 5 8 
+
+Movimiento: 0,1 No. 19
+Puntaje: 6
+1 0 2 
+4 6 3 
+7 5 8 
+
+Movimiento: 1,1 No. 20
+Puntaje: 6
+1 6 2 
+4 0 3 
+7 5 8 
+
+Movimiento: 1,0 No. 21
+Puntaje: 7
+1 6 2 
+0 4 3 
+7 5 8 
+
+Movimiento: 2,0 No. 22
+Puntaje: 8
+1 6 2 
+7 4 3 
+0 5 8 
+
